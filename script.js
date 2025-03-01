@@ -17,7 +17,7 @@ noBtn.addEventListener("click", function(event) {
 
 function loveAccepted() {
   // Show the romantic message
-  document.getElementById("resultMessage").innerHTML = "😍 I LOVE YOU DALLU! ❤️";
+  document.getElementById("resultMessage").innerHTML = "😍 AWWI LOVE YOU TOO DALLU! ❤️";
   document.getElementById("resultMessage").style.display = "block";
   
   // Play the romantic song when "Ho" is clicked
